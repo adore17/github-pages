@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF 文件预览</title>
+</head>
+<body>
+    <h1>PDF 文件预览</h1>
+    <embed src="文件名.pdf" type="application/pdf" width="100%" height="1000px" />
+    <p>如果无法预览 PDF 文件，请 <a href="User Manual66R.pdf">点击这里下载</a>。</p>
+</body>
+</html>
